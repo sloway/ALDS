@@ -5,7 +5,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		//HanoiTower.Start();		
 		//Stack.Start();
-		Queue.Start();
+		//Queue.Start();
+		//BinaryTreeArray.Start();
+		BinaryTreeLL.Start();
 	}
 
 }
