@@ -7,7 +7,8 @@ public class Main {
 		//Stack.Start();
 		//Queue.Start();
 		//BinaryTreeArray.Start();
-		BinaryTreeLL.Start();
+		//BinaryTreeLL.Start();
+		Heap.Start();
 	}
 
 }
