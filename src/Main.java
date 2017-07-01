@@ -9,7 +9,8 @@ public class Main {
 		//BinaryTreeArray.Start();
 		//BinaryTreeLL.Start();
 		//Heap.Start();
-		MergeSort.Start();
+		//MergeSort.Start();
+		QuickSort.Start();
 	}
 
 }
