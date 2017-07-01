@@ -8,7 +8,8 @@ public class Main {
 		//Queue.Start();
 		//BinaryTreeArray.Start();
 		//BinaryTreeLL.Start();
-		Heap.Start();
+		//Heap.Start();
+		MergeSort.Start();
 	}
 
 }
